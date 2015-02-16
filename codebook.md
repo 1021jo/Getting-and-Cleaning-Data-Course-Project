@@ -1,6 +1,8 @@
 Variables
 1 Activity
+
 2 Testee_ID
+
 3 tBodyAcc-mean()-X
 4 tBodyAcc-mean()-Y
 5 tBodyAcc-mean()-Z
