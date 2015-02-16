@@ -21,11 +21,11 @@ This dataset contains 180 records by 6 activities and 30 subjects. For each reco
 The dataset includes the following files:
 =========================================
 
-- 'README.md’
+- README.md
 
-- ‘cleandata.txt': The tidy dataset.
+- cleandata.txt: The tidy dataset.
 
-- ‘codebook.md’: List of all variables.
+- codebook.md: List of all variables.
 
 
 
